@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "7031c722a83129c1ed4f7ed7ea1ab705",
+    "logs": [
+      {
+        "time": "2020-12-08T12:32:07.474Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"11.0.9\" 2020-. Please use Java 1.8.0"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
